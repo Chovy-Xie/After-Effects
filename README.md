@@ -114,7 +114,8 @@
 
 ## Effects and Presets
 
-	S_EdgeDetect(Ctrl+D): {  # 漫画效果: 在"原素材"上 = (轨道遮罩 = 亮度&&反转)
+	# 漫画效果
+	S_EdgeDetect(Ctrl+D): {  # 在"原素材"上 = (轨道遮罩 = 亮度&&反转)
  		Edge Smooth: 0.00,
 		Brightness: +,
 		Saturation: 1.000,
@@ -123,6 +124,7 @@
 		Weight Green: *,
 		Weight Blue: *
 	}
+
 
 	生成组: {
  		勾画,  # 蒙版路径相关
