@@ -1,19 +1,11 @@
 # After Effects
 
-> Note. Shortcut, Effects & Presets, Plugin, 漫剪
+> Link. [Shortcut](#AE-Shortcut), [Effects & Presets](#Effect-and-Presets), [Plugin](#AE-Plugins), [漫剪](#漫剪)
 
-
-## Content
-
-[AE Shortcut](#AE-Shortcut)
-
-[AE Plugins](#AE-Plugins)
-
-[Effects and Presets](#Effect-and-Presets)
-
-[漫剪](#漫剪)
 
 ## AE Shortcut
+
+> Link. [Tools](#Tools), [Keyflames](#Keyflames), [Comp-Panel](#Comp-Panel), [Layers](#Layers), [3D Camera](#3D-Camera)
 
 ### Tools
 
@@ -70,7 +62,7 @@
     Ctrl + Alt + T  # 时间重映射
 
 
-### 3-D Camera
+### 3D Camera
 
 	Ctrl + Shift + Alt + \  # 对齐选中图层
 > [科技效果模板](https://www.vjshi.com/search?st=&wd=%E7%A7%91%E6%8A%80+%E5%9B%BE%E7%89%87)
