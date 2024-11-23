@@ -84,7 +84,7 @@
 
 **红巨人Magic Bullet Suite**：滤镜，#*配合s_glow, lumetri, shine, s_rays, 三色调*；
 
-**Trapcode Suite**：粒子插件；
+**[Trapcode Suite](#Trapcode-红巨星)**：粒子插件；
 
 **Optical Flares**：OP光，#*红眼，刀光，阳光照射效果*；
 
@@ -102,6 +102,9 @@
 	Warping  # Inverse_w/_SmartBlend
  	MainBGSensitivity  # 100%
 	Speed[200:20]  # ~1s
+
+
+### Trapcode 红巨星
 
 
 ## Effects and Presets
@@ -192,6 +195,16 @@
       		更改为颜色: {
 			自: {吸管提取}，
    			至: {Customize}
+		},
+  		Lumtri 颜色 = {
+    			基本校正 = {
+       				输入 LUT = " ",
+	   			颜色 = {色温，色调，饱和度},
+       				轻 = {曝光度，对比度，高光，阴影，白色，黑色}
+			}，
+       			创意 = {Look = " "}，
+	  		曲线,  # 同理
+     			色轮 = {中间调，阴影，高光}
 		}
 	}
 
