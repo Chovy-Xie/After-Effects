@@ -301,7 +301,7 @@
 	 			Birth Size: 0.09, 
 		 		Death Size: 0.02, 
 		 		Size Variation: 0.1%, 
-		 		Birth Color: Deep Pink,  #FF1493
+		 		Birth Color: Deep Pink,  #FF1493  || #FF5C60
 		 		Death Color: Cyan  #00FFFF
 			}
 		}
