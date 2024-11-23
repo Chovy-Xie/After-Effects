@@ -86,7 +86,7 @@
 
 **[Trapcode Suite](#Trapcode-红巨星)**：粒子插件；
 
-**Optical Flares**：OP光，#*红眼，刀光，阳光照射效果*；
+**[Optical Flares](#Optical-Flares)**：OP光，#*红眼，刀光，阳光照射效果*；
 
 **FX Console**：效果预设控件#*Ctrl+Space*；
 
@@ -105,6 +105,16 @@
 
 
 ### Trapcode 红巨星
+
+```
+
+```
+
+### Optical Flares
+
+```
+Options, Brightness, Scale
+```
 
 
 ## Effects and Presets
