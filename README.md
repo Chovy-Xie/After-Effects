@@ -160,6 +160,7 @@ Options, Brightness, Scale
 ### 模糊
  	模糊组：{
   		高斯模糊,  # 纯纯的模糊
+    		BCC Gaussian Blur: {Horizontal Blur[0:15:0]},  # 类似高斯模糊
     		径向模糊: { 旋转, 缩放 },
       		CC Radial Fast Blur: { Standard, Brightest, Darkest }  # 光纤放射模糊，类似径向模糊的缩放类型
 	}
