@@ -362,6 +362,7 @@ Options, Brightness, Scale
 		},
 		BCC Ripple Dissolve: { speed: Customize },  # 水波纹效果
 		变换 = (缩放[0%:100%], 效果不透明度[100%:0%]),  # 灵魂出窍效果
+  		阈值 + 发光，  # 明暗关系变化入场
 		扫描扫光效果: {
 			BCC+Streaks(2s~): {
 	 			Blend: Add, 
