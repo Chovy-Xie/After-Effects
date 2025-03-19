@@ -28,6 +28,7 @@
 
 ### Comp Panel
 
+ 	Ctrl + Home  # center
 	Hold(Space) + Click&Drag  # maneuver around canvas area
  	, & .  # zoom in comp panel
   	Alt + /  # best fit
