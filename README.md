@@ -2,7 +2,6 @@
 
 > Link. [Shortcut](#AE-Shortcut), [Effects & Presets](#Effects-and-Presets), [Plugin](#AE-Plugins), [漫剪](#漫剪)
 
-当然可以啦 这是我~~活该~~应该的
 
 ## AE Shortcut
 
